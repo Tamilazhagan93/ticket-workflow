@@ -1,0 +1,18 @@
+# secrets - NEVER upload
+.env
+service_account.json
+gmail_debug.py
+
+# practice / test files
+step*_test.py
+step_gmail_test.py
+step1_test.py
+step3_test.py
+step5_test.py
+step6_test.py
+step8_test.py
+
+# generated
+venv/
+__pycache__/
+*.pyc
